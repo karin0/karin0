@@ -1,1 +1,1 @@
-![](https://cirno.ga/get/@:gh.svg)
+![](https://x.cirno.ga/get/@:gh.svg)
